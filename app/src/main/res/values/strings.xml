@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">iProf</string>
+    <string name="hint_email">email</string>
+    <string name="hint_pwd">password</string>
+    <string name="signup_button">Sign up</string>
+    <string name="login_button">Login</string>
+</resources>
